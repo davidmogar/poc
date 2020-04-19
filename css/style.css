@@ -1,0 +1,10 @@
+@import url("reset.css");
+
+@font-face {
+	font-family: "Nerd Font";
+	src: url("../fonts/nerd.ttf");
+}
+
+button {
+	font-family: "Nerd Font";
+}
